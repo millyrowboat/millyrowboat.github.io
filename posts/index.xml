@@ -5,17 +5,23 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Milly Wrote-it</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radiator</title>
+      <link>/posts/radiator/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+
+      <guid>/posts/radiator/</guid>
+      <description>In the musical Hamilton, they sing about “being in the room where it happened”. As Engineering Manager, I’ve now finally found myself in “the room” where a lot of talk happens. Decisions get made, strategies are strategised and plans are hatched&amp;hellip;</description>
+    </item>
+
     <item>
       <title>Transition</title>
       <link>/posts/transition/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
 
       <guid>/posts/transition/</guid>
-      <description>Life is all about change. I had never thought I would be a software engineer in earnest. In a world where the outward impression of an engineer is one of maths, sweaty boys and basements*, I had thought my place was purely in the design world.
-Fast forward to 2021-22, and I am now an Engineering Manager.
-Which, if you’re not aware, involves two things:
- Engineering Management  And sometimes both at once.</description>
+      <description>Life is all about change. I had never thought I would be a software engineer in earnest&amp;hellip;</description>
     </item>
 
   </channel>
