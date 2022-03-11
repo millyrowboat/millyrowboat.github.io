@@ -5,18 +5,27 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Milly Wrote-it</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Radiator</title>
-      <link>/posts/radiator/</link>
+      <title>👴 The Man</title>
+      <link>/posts/the-man/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+
+      <guid>/posts/the-man/</guid>
+      <description>With International Women&amp;rsquo;s Day upon us once more, I muse more about what transparency actually means&amp;hellip;</description>
+    </item>
+
+    <item>
+      <title>☢️ Radiator</title>
+      <link>/posts/%EF%B8%8F-radiator/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
 
-      <guid>/posts/radiator/</guid>
+      <guid>/posts/%EF%B8%8F-radiator/</guid>
       <description>In the musical Hamilton, they sing about “being in the room where it happened”. As Engineering Manager, I’ve now finally found myself in “the room” where a lot of talk happens. Decisions get made, strategies are strategised and plans are hatched&amp;hellip;</description>
     </item>
 
     <item>
-      <title>Transition</title>
+      <title>🦋 Transition</title>
       <link>/posts/transition/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
 
