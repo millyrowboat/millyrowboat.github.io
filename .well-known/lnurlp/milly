@@ -1,0 +1,1 @@
+{"callback":"https://api.cash.app/lnurl/payreq/01b59bc3-f76e-4e6d-a289-b473f004a852","maxSendable":3856197000,"minSendable":1000,"metadata":"[[\"text/identifier\",\"millboat@cash.app\"],[\"text/plain\",\"Pay $millboat\"]]","tag":"payRequest","allowsNostr":true,"nostrPubkey":"c76171742e40c41573546146de52a53f4bac7ea05ec820c35c660673fc4da080","commentAllowed":100}
