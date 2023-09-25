@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Milly Wrote-it</title>
+    <title>Milly Wrote it</title>
     <link>/</link>
-    <description>Recent content on Milly Wrote-it</description>
+    <description>Recent content on Milly Wrote it</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>007. University or Kindergarten 🧒</title>
+      <link>/posts/007-university-or-kindergarten/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+
+      <guid>/posts/007-university-or-kindergarten/</guid>
+      <description>What happens when you start treating your team like the adults they are?</description>
+    </item>
+
     <item>
       <title>006. Autonomy 👣</title>
       <link>/posts/006-autonomy/</link>
